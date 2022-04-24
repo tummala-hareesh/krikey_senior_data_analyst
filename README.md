@@ -10,7 +10,13 @@ This repository has been created as a part of krikey's take home assingment. As 
 # Exploratory Data Analysis
 First part of the challenge requires exploratory data analysis on the dataset provided. In this section, I first document my notes on different data sources that are provided under the sub-section [Data sources provided](#data-sources-provided). This is followed by a sub-section that details about the jupter notebook used for [exploratory data analysis](#link-to-eda-notebook) and the final sub-section [lists important outcomes from the analysis](#important-outcomes-from-the-analysis).
 
-## Data sources provided
+## Data sources 
+The dataset contains following tables:
+1. **watchedVideo**: This contains all occurrences of the watchedVideo event.
+2. **users**: This table contains the registered users
+3. **videos**: This table contains all created videos
+4. **feeds**: This contains the feeds the videos are served on
+
 
 
 ## Link to EDA notebook
