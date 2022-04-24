@@ -1,0 +1,15 @@
+version: "3.9"
+   
+services:
+  jupyter-notebook:
+    image: jupyter_krikey
+    container_name: jupyter_krikey
+    user: root
+    ports:
+      - "7777:8888"
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+      GRANT_SUDO: "yes"
+    volumes:
+      - C:\Users\htummal\Documents\Personal_HT\krikey_senior_data_analyst:/home/jovyan/work/
+    command: "start-notebook.sh --NotebookApp.token='' --NotebookApp.password=''"
