@@ -24,8 +24,7 @@ Entity Relationship Diagram of the Krikey challenge dataset is shown below:
 Jupyter Notebook that includes exploratory data analysis can be found [here](1_exploratory_data_analysis_krikey.ipynb)
 
 # Two Page Write up
-Second part of the challenge requires a 2 page write up to present results to the executive team. In this section, we document selected outcomes from the exploratory data analysis that is completed in the previous section. This sub-section will serve like a middle-round to organize the data analysis results and get your thoughts organized before the write-up. The write up document is submitted as a google document file and can be accessed from [here](https://docs.google.com/document/d/18OICG5SJJGTwd67kts7pz_l0K2zsu1TNqXpBwZAWAFo/edit).   
-
+Second part of the challenge requires a 2 page write up to present results to the executive team. In this section, we document selected outcomes from the exploratory data analysis that is completed in the previous section. This sub-section will serve like a middle-round to organize the data analysis results and get your thoughts organized before the write-up. The write up document is submitted as a google document file and can be accessed from [here](./2_krikey_write_up.docx).   
 
 # Krikey App Data Projects
 In the final part of the challenge, I downloaded and explored the krikey app to provide a list of 3 analytics reports that would contribute to the app's overall growth and retention. Identified (3) reports are submitted in a one page document that can be accessed from [here]()
