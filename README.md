@@ -17,13 +17,15 @@ The dataset contains following tables:
 3. **videos**: This table contains all created videos
 4. **feeds**: This contains the feeds the videos are served on
 
-
+Entity Relationship Diagram of the Krikey challenge dataset is shown below:
+![ERD diagram](./figures/ERD-krikey.jpg)
 
 ## Link to EDA notebook
-
+Jupyter Notebook that includes exploratory data analysis can be found [here](1_exploratory_data_analysis_krikey.ipynb)
 
 ## Important Outcomes from the Analysis
-In this section, we identify important outcomes from the exploratory data analysis that is completed in the previous section. This sub-section will serve like a middle-round to organize the data analysis results and get your thoughts organized before the write-up.  
+In this section, we display selected outcomes from the exploratory data analysis that is completed in the previous section. This sub-section will serve like a middle-round to organize the data analysis results and get your thoughts organized before the write-up.  
+
 
 # Two Page Write up
 Second part of the challenge requires a 2 page write up to present results to the executive team. This write up is submitted as a google document file and can be accessed from [here]().
