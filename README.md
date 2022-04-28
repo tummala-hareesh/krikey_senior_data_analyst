@@ -1,5 +1,5 @@
-# Krikey Senior Data Analyst Take Home Assignment
-This repository has been created as a part of krikey's take home assingment. As per the suggestion by krikey team, my complete solution is consolidated and presented in 3 parts. The following table summarizes different parts/sections of this challenge.   
+# Krikey Senior Data Analyst Challenge
+This repository has been created as a part of krikey's challenge. As per the suggestion by krikey team, my complete solution is consolidated and presented in 3 parts. The following table summarizes different parts/sections of this challenge.   
 
 # Table of Contents
 1. [Exploratory Data Analysis](#exploratory-data-analysis)
